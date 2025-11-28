@@ -1,0 +1,400 @@
+{"id": 0, "question": "Who is the president?", "label_ambiguous": true}
+{"id": 0, "question": "Who is the president of France?", "label_ambiguous": false}
+{"id": 1, "question": "Where is the bank?", "label_ambiguous": true}
+{"id": 1, "question": "Where is the World Bank?", "label_ambiguous": false}
+{"id": 2, "question": "What's the temperature?", "label_ambiguous": true}
+{"id": 2, "question": "What's normal body temperature?", "label_ambiguous": false}
+{"id": 3, "question": "Who won the game?", "label_ambiguous": true}
+{"id": 3, "question": "Who won Super Bowl I?", "label_ambiguous": false}
+{"id": 4, "question": "When does it open?", "label_ambiguous": true}
+{"id": 4, "question": "When do banks typically open?", "label_ambiguous": false}
+{"id": 5, "question": "How much does it cost?", "label_ambiguous": true}
+{"id": 5, "question": "How much does gold cost per ounce?", "label_ambiguous": false}
+{"id": 6, "question": "Where is the office?", "label_ambiguous": true}
+{"id": 6, "question": "Where is the Pentagon located?", "label_ambiguous": false}
+{"id": 7, "question": "Who is the founder?", "label_ambiguous": true}
+{"id": 7, "question": "Who founded Microsoft?", "label_ambiguous": false}
+{"id": 8, "question": "What's the capital?", "label_ambiguous": true}
+{"id": 8, "question": "What's Japan's capital?", "label_ambiguous": false}
+{"id": 9, "question": "When is the meeting?", "label_ambiguous": true}
+{"id": 9, "question": "When is Christmas each year?", "label_ambiguous": false}
+{"id": 10, "question": "How long does it take?", "label_ambiguous": true}
+{"id": 10, "question": "How long is a marathon?", "label_ambiguous": false}
+{"id": 11, "question": "Who is the author?", "label_ambiguous": true}
+{"id": 11, "question": "Who wrote Moby Dick?", "label_ambiguous": false}
+{"id": 12, "question": "What was the score?", "label_ambiguous": true}
+{"id": 12, "question": "What's a perfect bowling score?", "label_ambiguous": false}
+{"id": 13, "question": "Where is the station?", "label_ambiguous": true}
+{"id": 13, "question": "Where is Grand Central Terminal?", "label_ambiguous": false}
+{"id": 14, "question": "What's the password?", "label_ambiguous": true}
+{"id": 14, "question": "What makes a strong password?", "label_ambiguous": false}
+{"id": 15, "question": "Who's the coach?", "label_ambiguous": true}
+{"id": 15, "question": "Who coached the Dream Team?", "label_ambiguous": false}
+{"id": 16, "question": "How old is she?", "label_ambiguous": true}
+{"id": 16, "question": "How old is the Statue of Liberty?", "label_ambiguous": false}
+{"id": 17, "question": "What's the deadline?", "label_ambiguous": true}
+{"id": 17, "question": "What's the typical tax deadline?", "label_ambiguous": false}
+{"id": 18, "question": "Where's the remote?", "label_ambiguous": true}
+{"id": 18, "question": "Where's the TV remote typically kept?", "label_ambiguous": false}
+{"id": 19, "question": "What's the rate?", "label_ambiguous": true}
+{"id": 19, "question": "What's the speed of light?", "label_ambiguous": false}
+{"id": 20, "question": "Who invented it?", "label_ambiguous": true}
+{"id": 20, "question": "Who invented the telephone?", "label_ambiguous": false}
+{"id": 21, "question": "What's the address?", "label_ambiguous": true}
+{"id": 21, "question": "What's the White House address?", "label_ambiguous": false}
+{"id": 22, "question": "When's the deadline?", "label_ambiguous": true}
+{"id": 22, "question": "When's April Fools Day?", "label_ambiguous": false}
+{"id": 23, "question": "How many are there?", "label_ambiguous": true}
+{"id": 23, "question": "How many continents are there?", "label_ambiguous": false}
+{"id": 24, "question": "What's the policy?", "label_ambiguous": true}
+{"id": 24, "question": "What's the return policy at Costco?", "label_ambiguous": false}
+{"id": 25, "question": "Who's the CEO?", "label_ambiguous": true}
+{"id": 25, "question": "Who founded Apple?", "label_ambiguous": false}
+{"id": 26, "question": "What's the recipe?", "label_ambiguous": true}
+{"id": 26, "question": "What's the recipe for water?", "label_ambiguous": false}
+{"id": 27, "question": "When does it start?", "label_ambiguous": true}
+{"id": 27, "question": "When does summer start annually?", "label_ambiguous": false}
+{"id": 28, "question": "Where's the file?", "label_ambiguous": true}
+{"id": 28, "question": "Where's the Documents folder on Windows?", "label_ambiguous": false}
+{"id": 29, "question": "What's the limit?", "label_ambiguous": true}
+{"id": 29, "question": "What's the speed limit on highways?", "label_ambiguous": false}
+{"id": 30, "question": "Who won?", "label_ambiguous": true}
+{"id": 30, "question": "Who won World War II?", "label_ambiguous": false}
+{"id": 31, "question": "How does it work?", "label_ambiguous": true}
+{"id": 31, "question": "How does photosynthesis work?", "label_ambiguous": false}
+{"id": 32, "question": "What's the difference?", "label_ambiguous": true}
+{"id": 32, "question": "What's the difference between RAM and ROM?", "label_ambiguous": false}
+{"id": 33, "question": "Where's the bathroom?", "label_ambiguous": true}
+{"id": 33, "question": "Where's the bathroom in a house?", "label_ambiguous": false}
+{"id": 34, "question": "What's the code?", "label_ambiguous": true}
+{"id": 34, "question": "What's the area code for Manhattan?", "label_ambiguous": false}
+{"id": 35, "question": "Who's performing?", "label_ambiguous": true}
+{"id": 35, "question": "Who performed at Woodstock 1969?", "label_ambiguous": false}
+{"id": 36, "question": "What's the format?", "label_ambiguous": true}
+{"id": 36, "question": "What's the PDF format?", "label_ambiguous": false}
+{"id": 37, "question": "When's the sale?", "label_ambiguous": true}
+{"id": 37, "question": "When's Black Friday each year?", "label_ambiguous": false}
+{"id": 38, "question": "How much RAM?", "label_ambiguous": true}
+{"id": 38, "question": "How much RAM for gaming?", "label_ambiguous": false}
+{"id": 39, "question": "What's the ranking?", "label_ambiguous": true}
+{"id": 39, "question": "What's Mount Everest's ranking in height?", "label_ambiguous": false}
+{"id": 40, "question": "Who discovered it?", "label_ambiguous": true}
+{"id": 40, "question": "Who discovered penicillin?", "label_ambiguous": false}
+{"id": 41, "question": "What's the weather?", "label_ambiguous": true}
+{"id": 41, "question": "What's the weather like in deserts?", "label_ambiguous": false}
+{"id": 42, "question": "Where's the key?", "label_ambiguous": true}
+{"id": 42, "question": "Where's the key on a map?", "label_ambiguous": false}
+{"id": 43, "question": "What's the protocol?", "label_ambiguous": true}
+{"id": 43, "question": "What's the HTTP protocol?", "label_ambiguous": false}
+{"id": 44, "question": "How fast?", "label_ambiguous": true}
+{"id": 44, "question": "How fast do cheetahs run?", "label_ambiguous": false}
+{"id": 45, "question": "Who's in charge?", "label_ambiguous": true}
+{"id": 45, "question": "Who's in charge of the UN?", "label_ambiguous": false}
+{"id": 46, "question": "What's the issue?", "label_ambiguous": true}
+{"id": 46, "question": "What's the main climate issue?", "label_ambiguous": false}
+{"id": 47, "question": "When's the update?", "label_ambiguous": true}
+{"id": 47, "question": "When's the next leap year?", "label_ambiguous": false}
+{"id": 48, "question": "Where's the party?", "label_ambiguous": true}
+{"id": 48, "question": "Where's the Tea Party from?", "label_ambiguous": false}
+{"id": 49, "question": "What's the answer?", "label_ambiguous": true}
+{"id": 49, "question": "What's the answer to life?", "label_ambiguous": false}
+{"id": 50, "question": "Who's the director?", "label_ambiguous": true}
+{"id": 50, "question": "Who directed The Godfather?", "label_ambiguous": false}
+{"id": 51, "question": "What's the number?", "label_ambiguous": true}
+{"id": 51, "question": "What's the atomic number of oxygen?", "label_ambiguous": false}
+{"id": 52, "question": "Where's the museum?", "label_ambiguous": true}
+{"id": 52, "question": "Where's the Louvre Museum?", "label_ambiguous": false}
+{"id": 53, "question": "How tall is it?", "label_ambiguous": true}
+{"id": 53, "question": "How tall is the Eiffel Tower?", "label_ambiguous": false}
+{"id": 54, "question": "What's the name?", "label_ambiguous": true}
+{"id": 54, "question": "What's the name of Jupiter's largest moon?", "label_ambiguous": false}
+{"id": 55, "question": "Who's the artist?", "label_ambiguous": true}
+{"id": 55, "question": "Who painted the Sistine Chapel?", "label_ambiguous": false}
+{"id": 56, "question": "When's the holiday?", "label_ambiguous": true}
+{"id": 56, "question": "When's Thanksgiving each year?", "label_ambiguous": false}
+{"id": 57, "question": "What's the symbol?", "label_ambiguous": true}
+{"id": 57, "question": "What's the chemical symbol for iron?", "label_ambiguous": false}
+{"id": 58, "question": "Where's the tower?", "label_ambiguous": true}
+{"id": 58, "question": "Where's the Leaning Tower of Pisa?", "label_ambiguous": false}
+{"id": 59, "question": "How heavy is it?", "label_ambiguous": true}
+{"id": 59, "question": "How heavy is the average car?", "label_ambiguous": false}
+{"id": 60, "question": "What's the title?", "label_ambiguous": true}
+{"id": 60, "question": "What's the title of Beethoven's Fifth?", "label_ambiguous": false}
+{"id": 61, "question": "Who's the leader?", "label_ambiguous": true}
+{"id": 61, "question": "Who led the Soviet Union in WWII?", "label_ambiguous": false}
+{"id": 62, "question": "When's the festival?", "label_ambiguous": true}
+{"id": 62, "question": "When's the Cannes Film Festival?", "label_ambiguous": false}
+{"id": 63, "question": "What's the color?", "label_ambiguous": true}
+{"id": 63, "question": "What color is the sky?", "label_ambiguous": false}
+{"id": 64, "question": "Where's the castle?", "label_ambiguous": true}
+{"id": 64, "question": "Where's Windsor Castle located?", "label_ambiguous": false}
+{"id": 65, "question": "How wide is it?", "label_ambiguous": true}
+{"id": 65, "question": "How wide is the Panama Canal?", "label_ambiguous": false}
+{"id": 66, "question": "What's the result?", "label_ambiguous": true}
+{"id": 66, "question": "What's the result of 2 plus 2?", "label_ambiguous": false}
+{"id": 67, "question": "Who's the champion?", "label_ambiguous": true}
+{"id": 67, "question": "Who's the chess world champion historically?", "label_ambiguous": false}
+{"id": 68, "question": "When's the event?", "label_ambiguous": true}
+{"id": 68, "question": "When's the Summer Solstice?", "label_ambiguous": false}
+{"id": 69, "question": "What's the rule?", "label_ambiguous": true}
+{"id": 69, "question": "What's the golden rule?", "label_ambiguous": false}
+{"id": 70, "question": "Where's the bridge?", "label_ambiguous": true}
+{"id": 70, "question": "Where's the Brooklyn Bridge?", "label_ambiguous": false}
+{"id": 71, "question": "How deep is it?", "label_ambiguous": true}
+{"id": 71, "question": "How deep is the Pacific Ocean?", "label_ambiguous": false}
+{"id": 72, "question": "What's the theory?", "label_ambiguous": true}
+{"id": 72, "question": "What's the theory of evolution?", "label_ambiguous": false}
+{"id": 73, "question": "Who's the composer?", "label_ambiguous": true}
+{"id": 73, "question": "Who composed the Moonlight Sonata?", "label_ambiguous": false}
+{"id": 74, "question": "When's the eclipse?", "label_ambiguous": true}
+{"id": 74, "question": "When do solar eclipses occur?", "label_ambiguous": false}
+{"id": 75, "question": "What's the definition?", "label_ambiguous": true}
+{"id": 75, "question": "What's the definition of photosynthesis?", "label_ambiguous": false}
+{"id": 76, "question": "Where's the pyramid?", "label_ambiguous": true}
+{"id": 76, "question": "Where's the Great Pyramid of Giza?", "label_ambiguous": false}
+{"id": 77, "question": "How long is it?", "label_ambiguous": true}
+{"id": 77, "question": "How long is the Great Wall?", "label_ambiguous": false}
+{"id": 78, "question": "What's the process?", "label_ambiguous": true}
+{"id": 78, "question": "What's the process of mitosis?", "label_ambiguous": false}
+{"id": 79, "question": "Who's the inventor?", "label_ambiguous": true}
+{"id": 79, "question": "Who invented the light bulb?", "label_ambiguous": false}
+{"id": 80, "question": "When's the ceremony?", "label_ambiguous": true}
+{"id": 80, "question": "When's the Oscars ceremony typically?", "label_ambiguous": false}
+{"id": 81, "question": "What's the equation?", "label_ambiguous": true}
+{"id": 81, "question": "What's Einstein's mass-energy equation?", "label_ambiguous": false}
+{"id": 82, "question": "Where's the statue?", "label_ambiguous": true}
+{"id": 82, "question": "Where's Christ the Redeemer statue?", "label_ambiguous": false}
+{"id": 83, "question": "How old is it?", "label_ambiguous": true}
+{"id": 83, "question": "How old is Stonehenge?", "label_ambiguous": false}
+{"id": 84, "question": "What's the law?", "label_ambiguous": true}
+{"id": 84, "question": "What's Newton's first law?", "label_ambiguous": false}
+{"id": 85, "question": "Who's the explorer?", "label_ambiguous": true}
+{"id": 85, "question": "Who explored the New World in 1492?", "label_ambiguous": false}
+{"id": 86, "question": "When's the solstice?", "label_ambiguous": true}
+{"id": 86, "question": "When's the winter solstice?", "label_ambiguous": false}
+{"id": 87, "question": "What's the principle?", "label_ambiguous": true}
+{"id": 87, "question": "What's Archimedes' principle?", "label_ambiguous": false}
+{"id": 88, "question": "Where's the dam?", "label_ambiguous": true}
+{"id": 88, "question": "Where's the Hoover Dam?", "label_ambiguous": false}
+{"id": 89, "question": "How far is it?", "label_ambiguous": true}
+{"id": 89, "question": "How far is the Sun from Earth?", "label_ambiguous": false}
+{"id": 90, "question": "What's the constant?", "label_ambiguous": true}
+{"id": 90, "question": "What's the gravitational constant?", "label_ambiguous": false}
+{"id": 91, "question": "Who's the philosopher?", "label_ambiguous": true}
+{"id": 91, "question": "Who was Socrates?", "label_ambiguous": false}
+{"id": 92, "question": "When's the equinox?", "label_ambiguous": true}
+{"id": 92, "question": "When's the spring equinox?", "label_ambiguous": false}
+{"id": 93, "question": "What's the method?", "label_ambiguous": true}
+{"id": 93, "question": "What's the scientific method?", "label_ambiguous": false}
+{"id": 94, "question": "Where's the volcano?", "label_ambiguous": true}
+{"id": 94, "question": "Where's Mount Vesuvius?", "label_ambiguous": false}
+{"id": 95, "question": "How big is it?", "label_ambiguous": true}
+{"id": 95, "question": "How big is the Sahara Desert?", "label_ambiguous": false}
+{"id": 96, "question": "What's the period?", "label_ambiguous": true}
+{"id": 96, "question": "What's the Jurassic Period?", "label_ambiguous": false}
+{"id": 97, "question": "Who's the scientist?", "label_ambiguous": true}
+{"id": 97, "question": "Who discovered radioactivity?", "label_ambiguous": false}
+{"id": 98, "question": "When's the season?", "label_ambiguous": true}
+{"id": 98, "question": "When does fall start?", "label_ambiguous": false}
+{"id": 99, "question": "What's the particle?", "label_ambiguous": true}
+{"id": 99, "question": "What's an electron?", "label_ambiguous": false}
+{"id": 100, "question": "Where's the canyon?", "label_ambiguous": true}
+{"id": 100, "question": "Where's the Grand Canyon?", "label_ambiguous": false}
+{"id": 101, "question": "How hot is it?", "label_ambiguous": true}
+{"id": 101, "question": "How hot is the Earth's core?", "label_ambiguous": false}
+{"id": 102, "question": "What's the element?", "label_ambiguous": true}
+{"id": 102, "question": "What's the most abundant element?", "label_ambiguous": false}
+{"id": 103, "question": "Who's the mathematician?", "label_ambiguous": true}
+{"id": 103, "question": "Who was Pythagoras?", "label_ambiguous": false}
+{"id": 104, "question": "When's the rotation?", "label_ambiguous": true}
+{"id": 104, "question": "When does Earth complete one rotation?", "label_ambiguous": false}
+{"id": 105, "question": "What's the force?", "label_ambiguous": true}
+{"id": 105, "question": "What's gravitational force?", "label_ambiguous": false}
+{"id": 106, "question": "Where's the desert?", "label_ambiguous": true}
+{"id": 106, "question": "Where's the Mojave Desert?", "label_ambiguous": false}
+{"id": 107, "question": "How cold is it?", "label_ambiguous": true}
+{"id": 107, "question": "How cold is liquid nitrogen?", "label_ambiguous": false}
+{"id": 108, "question": "What's the system?", "label_ambiguous": true}
+{"id": 108, "question": "What's the solar system?", "label_ambiguous": false}
+{"id": 109, "question": "Who's the physician?", "label_ambiguous": true}
+{"id": 109, "question": "Who is Hippocrates?", "label_ambiguous": false}
+{"id": 110, "question": "When's the orbit?", "label_ambiguous": true}
+{"id": 110, "question": "When does Earth orbit the Sun?", "label_ambiguous": false}
+{"id": 111, "question": "What's the phenomenon?", "label_ambiguous": true}
+{"id": 111, "question": "What's a solar eclipse?", "label_ambiguous": false}
+{"id": 112, "question": "Where's the reef?", "label_ambiguous": true}
+{"id": 112, "question": "Where's the Great Barrier Reef?", "label_ambiguous": false}
+{"id": 113, "question": "How thick is it?", "label_ambiguous": true}
+{"id": 113, "question": "How thick is Earth's atmosphere?", "label_ambiguous": false}
+{"id": 114, "question": "What's the cycle?", "label_ambiguous": true}
+{"id": 114, "question": "What's the water cycle?", "label_ambiguous": false}
+{"id": 115, "question": "Who's the astronomer?", "label_ambiguous": true}
+{"id": 115, "question": "Who was Galileo?", "label_ambiguous": false}
+{"id": 116, "question": "When's the revolution?", "label_ambiguous": true}
+{"id": 116, "question": "When does Earth complete one revolution?", "label_ambiguous": false}
+{"id": 117, "question": "What's the compound?", "label_ambiguous": true}
+{"id": 117, "question": "What's carbon dioxide?", "label_ambiguous": false}
+{"id": 118, "question": "Where's the forest?", "label_ambiguous": true}
+{"id": 118, "question": "Where's the Amazon rainforest?", "label_ambiguous": false}
+{"id": 119, "question": "How dense is it?", "label_ambiguous": true}
+{"id": 119, "question": "How dense is water?", "label_ambiguous": false}
+{"id": 120, "question": "What's the organ?", "label_ambiguous": true}
+{"id": 120, "question": "What's the largest human organ?", "label_ambiguous": false}
+{"id": 121, "question": "Who's the biologist?", "label_ambiguous": true}
+{"id": 121, "question": "Who proposed natural selection?", "label_ambiguous": false}
+{"id": 122, "question": "When's the phase?", "label_ambiguous": true}
+{"id": 122, "question": "When's a full moon?", "label_ambiguous": false}
+{"id": 123, "question": "What's the layer?", "label_ambiguous": true}
+{"id": 123, "question": "What's the ozone layer?", "label_ambiguous": false}
+{"id": 124, "question": "Where's the glacier?", "label_ambiguous": true}
+{"id": 124, "question": "Where are the Himalayan glaciers?", "label_ambiguous": false}
+{"id": 125, "question": "How bright is it?", "label_ambiguous": true}
+{"id": 125, "question": "How bright is the Sun?", "label_ambiguous": false}
+{"id": 126, "question": "What's the structure?", "label_ambiguous": true}
+{"id": 126, "question": "What's DNA structure?", "label_ambiguous": false}
+{"id": 127, "question": "Who's the chemist?", "label_ambiguous": true}
+{"id": 127, "question": "Who created the periodic table?", "label_ambiguous": false}
+{"id": 128, "question": "When's the tide?", "label_ambiguous": true}
+{"id": 128, "question": "When's high tide?", "label_ambiguous": false}
+{"id": 129, "question": "What's the gas?", "label_ambiguous": true}
+{"id": 129, "question": "What gas do plants produce?", "label_ambiguous": false}
+{"id": 130, "question": "Where's the trench?", "label_ambiguous": true}
+{"id": 130, "question": "Where's the Mariana Trench?", "label_ambiguous": false}
+{"id": 131, "question": "How fast does it move?", "label_ambiguous": true}
+{"id": 131, "question": "How fast does Earth rotate?", "label_ambiguous": false}
+{"id": 132, "question": "What's the reaction?", "label_ambiguous": true}
+{"id": 132, "question": "What's a chemical reaction?", "label_ambiguous": false}
+{"id": 133, "question": "Who's the physicist?", "label_ambiguous": true}
+{"id": 133, "question": "Who developed quantum mechanics?", "label_ambiguous": false}
+{"id": 134, "question": "When's the migration?", "label_ambiguous": true}
+{"id": 134, "question": "When do birds migrate south?", "label_ambiguous": false}
+{"id": 135, "question": "What's the tissue?", "label_ambiguous": true}
+{"id": 135, "question": "What's connective tissue?", "label_ambiguous": false}
+{"id": 136, "question": "Where's the peninsula?", "label_ambiguous": true}
+{"id": 136, "question": "Where's the Iberian Peninsula?", "label_ambiguous": false}
+{"id": 137, "question": "How strong is it?", "label_ambiguous": true}
+{"id": 137, "question": "How strong is diamond?", "label_ambiguous": false}
+{"id": 138, "question": "What's the cell?", "label_ambiguous": true}
+{"id": 138, "question": "What's a eukaryotic cell?", "label_ambiguous": false}
+{"id": 139, "question": "Who's the naturalist?", "label_ambiguous": true}
+{"id": 139, "question": "Who sailed on the Beagle?", "label_ambiguous": false}
+{"id": 140, "question": "When's the season change?", "label_ambiguous": true}
+{"id": 140, "question": "When does winter begin?", "label_ambiguous": false}
+{"id": 141, "question": "What's the molecule?", "label_ambiguous": true}
+{"id": 141, "question": "What's a water molecule?", "label_ambiguous": false}
+{"id": 142, "question": "Where's the strait?", "label_ambiguous": true}
+{"id": 142, "question": "Where's the Strait of Gibraltar?", "label_ambiguous": false}
+{"id": 143, "question": "How loud is it?", "label_ambiguous": true}
+{"id": 143, "question": "How loud is a jet engine?", "label_ambiguous": false}
+{"id": 144, "question": "What's the bond?", "label_ambiguous": true}
+{"id": 144, "question": "What's a covalent bond?", "label_ambiguous": false}
+{"id": 145, "question": "Who's the geologist?", "label_ambiguous": true}
+{"id": 145, "question": "Who proposed continental drift?", "label_ambiguous": false}
+{"id": 146, "question": "When's the bloom?", "label_ambiguous": true}
+{"id": 146, "question": "When do cherry blossoms bloom?", "label_ambiguous": false}
+{"id": 147, "question": "What's the spectrum?", "label_ambiguous": true}
+{"id": 147, "question": "What's the electromagnetic spectrum?", "label_ambiguous": false}
+{"id": 148, "question": "Where's the archipelago?", "label_ambiguous": true}
+{"id": 148, "question": "Where's the Indonesian archipelago?", "label_ambiguous": false}
+{"id": 149, "question": "How much does it weigh?", "label_ambiguous": true}
+{"id": 149, "question": "How much does Earth weigh?", "label_ambiguous": false}
+{"id": 150, "question": "What's the membrane?", "label_ambiguous": true}
+{"id": 150, "question": "What's the cell membrane?", "label_ambiguous": false}
+{"id": 151, "question": "Who's the botanist?", "label_ambiguous": true}
+{"id": 151, "question": "Who classified plant species?", "label_ambiguous": false}
+{"id": 152, "question": "When's the harvest?", "label_ambiguous": true}
+{"id": 152, "question": "When's wheat harvest season?", "label_ambiguous": false}
+{"id": 153, "question": "What's the radiation?", "label_ambiguous": true}
+{"id": 153, "question": "What's ultraviolet radiation?", "label_ambiguous": false}
+{"id": 154, "question": "Where's the plateau?", "label_ambiguous": true}
+{"id": 154, "question": "Where's the Tibetan Plateau?", "label_ambiguous": false}
+{"id": 155, "question": "How acidic is it?", "label_ambiguous": true}
+{"id": 155, "question": "How acidic is lemon juice?", "label_ambiguous": false}
+{"id": 156, "question": "What's the hormone?", "label_ambiguous": true}
+{"id": 156, "question": "What's insulin?", "label_ambiguous": false}
+{"id": 157, "question": "Who's the ecologist?", "label_ambiguous": true}
+{"id": 157, "question": "Who coined the term ecology?", "label_ambiguous": false}
+{"id": 158, "question": "When's the germination?", "label_ambiguous": true}
+{"id": 158, "question": "When do seeds germinate?", "label_ambiguous": false}
+{"id": 159, "question": "What's the wave?", "label_ambiguous": true}
+{"id": 159, "question": "What's a sound wave?", "label_ambiguous": false}
+{"id": 160, "question": "Where's the basin?", "label_ambiguous": true}
+{"id": 160, "question": "Where's the Amazon Basin?", "label_ambiguous": false}
+{"id": 161, "question": "How salty is it?", "label_ambiguous": true}
+{"id": 161, "question": "How salty is ocean water?", "label_ambiguous": false}
+{"id": 162, "question": "What's the enzyme?", "label_ambiguous": true}
+{"id": 162, "question": "What's a digestive enzyme?", "label_ambiguous": false}
+{"id": 163, "question": "Who's the geneticist?", "label_ambiguous": true}
+{"id": 163, "question": "Who discovered DNA structure?", "label_ambiguous": false}
+{"id": 164, "question": "When's the pollination?", "label_ambiguous": true}
+{"id": 164, "question": "When do bees pollinate flowers?", "label_ambiguous": false}
+{"id": 165, "question": "What's the current?", "label_ambiguous": true}
+{"id": 165, "question": "What's electric current?", "label_ambiguous": false}
+{"id": 166, "question": "Where's the delta?", "label_ambiguous": true}
+{"id": 166, "question": "Where's the Nile Delta?", "label_ambiguous": false}
+{"id": 167, "question": "How viscous is it?", "label_ambiguous": true}
+{"id": 167, "question": "How viscous is honey?", "label_ambiguous": false}
+{"id": 168, "question": "What's the protein?", "label_ambiguous": true}
+{"id": 168, "question": "What's hemoglobin?", "label_ambiguous": false}
+{"id": 169, "question": "Who's the microbiologist?", "label_ambiguous": true}
+{"id": 169, "question": "Who discovered bacteria?", "label_ambiguous": false}
+{"id": 170, "question": "When's the flowering?", "label_ambiguous": true}
+{"id": 170, "question": "When do roses flower?", "label_ambiguous": false}
+{"id": 171, "question": "What's the circuit?", "label_ambiguous": true}
+{"id": 171, "question": "What's an electrical circuit?", "label_ambiguous": false}
+{"id": 172, "question": "Where's the fjord?", "label_ambiguous": true}
+{"id": 172, "question": "Where are Norwegian fjords?", "label_ambiguous": false}
+{"id": 173, "question": "How magnetic is it?", "label_ambiguous": true}
+{"id": 173, "question": "How magnetic is iron?", "label_ambiguous": false}
+{"id": 174, "question": "What's the chromosome?", "label_ambiguous": true}
+{"id": 174, "question": "What's a sex chromosome?", "label_ambiguous": false}
+{"id": 175, "question": "Who's the immunologist?", "label_ambiguous": true}
+{"id": 175, "question": "Who developed the first vaccine?", "label_ambiguous": false}
+{"id": 176, "question": "When's the sprouting?", "label_ambiguous": true}
+{"id": 176, "question": "When do seedlings sprout?", "label_ambiguous": false}
+{"id": 177, "question": "What's the field?", "label_ambiguous": true}
+{"id": 177, "question": "What's a magnetic field?", "label_ambiguous": false}
+{"id": 178, "question": "Where's the tundra?", "label_ambiguous": true}
+{"id": 178, "question": "Where's the Arctic tundra?", "label_ambiguous": false}
+{"id": 179, "question": "How conductive is it?", "label_ambiguous": true}
+{"id": 179, "question": "How conductive is copper?", "label_ambiguous": false}
+{"id": 180, "question": "What's the nucleus?", "label_ambiguous": true}
+{"id": 180, "question": "What's the cell nucleus?", "label_ambiguous": false}
+{"id": 181, "question": "Who's the virologist?", "label_ambiguous": true}
+{"id": 181, "question": "Who discovered the first virus?", "label_ambiguous": false}
+{"id": 182, "question": "When's the budding?", "label_ambiguous": true}
+{"id": 182, "question": "When do trees bud in spring?", "label_ambiguous": false}
+{"id": 183, "question": "What's the lens?", "label_ambiguous": true}
+{"id": 183, "question": "What's a convex lens?", "label_ambiguous": false}
+{"id": 184, "question": "Where's the estuary?", "label_ambiguous": true}
+{"id": 184, "question": "Where's the Chesapeake Bay estuary?", "label_ambiguous": false}
+{"id": 185, "question": "How elastic is it?", "label_ambiguous": true}
+{"id": 185, "question": "How elastic is rubber?", "label_ambiguous": false}
+{"id": 186, "question": "What's the organelle?", "label_ambiguous": true}
+{"id": 186, "question": "What's a mitochondria?", "label_ambiguous": false}
+{"id": 187, "question": "Who's the paleontologist?", "label_ambiguous": true}
+{"id": 187, "question": "Who studies dinosaur fossils?", "label_ambiguous": false}
+{"id": 188, "question": "When's the hibernation?", "label_ambiguous": true}
+{"id": 188, "question": "When do bears hibernate?", "label_ambiguous": false}
+{"id": 189, "question": "What's the prism?", "label_ambiguous": true}
+{"id": 189, "question": "What's a triangular prism?", "label_ambiguous": false}
+{"id": 190, "question": "Where's the savanna?", "label_ambiguous": true}
+{"id": 190, "question": "Where's the African savanna?", "label_ambiguous": false}
+{"id": 191, "question": "How soluble is it?", "label_ambiguous": true}
+{"id": 191, "question": "How soluble is salt in water?", "label_ambiguous": false}
+{"id": 192, "question": "What's the ribosome?", "label_ambiguous": true}
+{"id": 192, "question": "What's the function of ribosomes?", "label_ambiguous": false}
+{"id": 193, "question": "Who's the taxonomist?", "label_ambiguous": true}
+{"id": 193, "question": "Who created binomial nomenclature?", "label_ambiguous": false}
+{"id": 194, "question": "When's the metamorphosis?", "label_ambiguous": true}
+{"id": 194, "question": "When do caterpillars metamorphose?", "label_ambiguous": false}
+{"id": 195, "question": "What's the mirror?", "label_ambiguous": true}
+{"id": 195, "question": "What's a concave mirror?", "label_ambiguous": false}
+{"id": 196, "question": "Where's the wetland?", "label_ambiguous": true}
+{"id": 196, "question": "Where are the Florida Everglades?", "label_ambiguous": false}
+{"id": 197, "question": "How permeable is it?", "label_ambiguous": true}
+{"id": 197, "question": "How permeable is cell membrane?", "label_ambiguous": false}
+{"id": 198, "question": "What's the vacuole?", "label_ambiguous": true}
+{"id": 198, "question": "What's a plant cell vacuole?", "label_ambiguous": false}
+{"id": 199, "question": "Who's the embryologist?", "label_ambiguous": true}
+{"id": 199, "question": "Who studies embryonic development?", "label_ambiguous": false}

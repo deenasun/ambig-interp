@@ -1,0 +1,22 @@
+[project]
+name = "ambig-interp"
+version = "0.1.0"
+description = "Ambiguous interpretation project"
+requires-python = ">=3.11"
+dependencies = [
+    "torch",
+    "transformer-lens",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["src"]
+
+[tool.black]
+line-length = 88
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
