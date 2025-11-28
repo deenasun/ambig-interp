@@ -143,6 +143,14 @@ def main():
     X = np.stack(X, axis=0)
     y = np.array(y)
 
+    # Validate that data has 2 classes for stratified split
+    unique_labels = np.unique(y)
+    if len(unique_labels) != 2:
+        raise ValueError(
+            f"Labels must be binary (0 and 1). Found {len(unique_labels)} unique classes: {unique_labels}. "
+            f"Class distribution: {np.bincount(y)}"
+        )
+    
     X_train, X_val, y_train, y_val = train_test_split(X, y, train_size=0.8, random_state=182, stratify=y)
 
     print(f"Training layerwise probes on {len(X_train)} training samples and {len(X_val)} validation samples")

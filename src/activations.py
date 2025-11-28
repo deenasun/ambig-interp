@@ -23,7 +23,7 @@ def extract_activations(tokenizer, model, prompt: str):
     with torch.no_grad():
         outputs = model(input_ids=input_ids, attention_mask=attention_mask, use_cache=False, output_hidden_states=True, return_dict=True)
 
-        hidden_states = outputs.hidden_states  # seq_len, num_layers
+        hidden_states = outputs.hidden_states  # (num_layers, batch_size, seq_len, hidden_dim)
         activations = []
         for layer_hidden in hidden_states:
             # Extract last token activation for this layer
